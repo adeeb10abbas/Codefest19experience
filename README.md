@@ -1,4 +1,3 @@
-# Codefest19experience
 # Philly Codefest 2019 
 
 ![Philly Codefest 2019 Student Team Award Winners Team Nest (left to right) Neil Kanakia (BS computer science ’23), Adeeb Abbas (BS computer science ’23), Bruce McCulloch (BS data science, ‘22), and Pranav Bhogal (BS computer science ’23) with Comcast Principal Engineer Eric Robinson.](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/59927984_2316557645266396_1521352784329310208_n.jpg?_nc_cat=110&_nc_ht=scontent-lga3-1.xx&oh=b49949945b5abf2a867e757e17fb75d2&oe=5D6CEE8F)
